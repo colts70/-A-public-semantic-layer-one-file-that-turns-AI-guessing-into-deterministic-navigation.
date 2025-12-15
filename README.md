@@ -1,4 +1,5 @@
 # -A-public-semantic-layer-one-file-that-turns-AI-guessing-into-deterministic-navigation.
+DFH/SFH is the missing public semantic infrastructure: one deterministic file that lets AI search find the official meaning, sources, and sitemap routes without guessing.
 *DFH (Deterministic First-Hop) / SFH (Semantic First-Hop)** is a **public, domain-rooted “start here” file** that helps AI search + answer engines find:
 # 🌐 DFH / SFH — AI Search Is *Already* Looking For This (The Missing Infrastructure)
 ### A public semantic layer (one file) that turns “AI guessing” into deterministic navigation.
