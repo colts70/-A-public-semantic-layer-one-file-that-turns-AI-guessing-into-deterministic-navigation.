@@ -252,6 +252,15 @@ dfh-stack/
 │  ├─ anchors.md
 │  └─ implementation.md
 └─ README.md
+
+/
+├─ .well-known/
+│  └─ stack
+├─ ai.json
+├─ sitemap.xml
+├─ robots.txt
+├─ README.md
+
 ⚠️ Important notes (so people don’t misunderstand DFH)
 DFH is not a truth machine.
 
